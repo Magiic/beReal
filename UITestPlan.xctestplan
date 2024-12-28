@@ -1,0 +1,33 @@
+{
+  "configurations" : [
+    {
+      "id" : "13CDDB69-9F29-402C-8ED6-AE1281D05A3F",
+      "name" : "English",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "language" : "en",
+    "region" : "US",
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "skippedTests" : [
+        "New_Apps_TestUITests",
+        "New_Apps_TestUITests\/testExample()",
+        "New_Apps_TestUITests\/testLaunchPerformance()",
+        "New_Apps_TestUITestsLaunchTests",
+        "New_Apps_TestUITestsLaunchTests\/testLaunch()"
+      ],
+      "target" : {
+        "containerPath" : "container:New Apps Test.xcodeproj",
+        "identifier" : "14374FC82B989FD700131332",
+        "name" : "New Apps TestUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

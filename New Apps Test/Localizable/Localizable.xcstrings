@@ -1,0 +1,322 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "" : {
+      "shouldTranslate" : false
+    },
+    "%lld messages" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld messages"
+          }
+        }
+      }
+    },
+    "Add" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajouter"
+          }
+        }
+      }
+    },
+    "Are you sick?" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Êtes-vous malade ?"
+          }
+        }
+      }
+    },
+    "Begin" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Commencer"
+          }
+        }
+      }
+    },
+    "BeILL" : {
+      "shouldTranslate" : false
+    },
+    "Buy" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Acheter"
+          }
+        }
+      }
+    },
+    "Buy new medicines to improve your health. Don't forget to share your health in social network otherwise we will send army to check." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Achetez de nouveaux médicaments pour améliorer votre santé. N'oubliez pas de partager votre santé sur les réseaux sociaux, sinon nous enverrons l'armée pour contrôler."
+          }
+        }
+      }
+    },
+    "Check that you are ok" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vérifiez que vous allez bien"
+          }
+        }
+      }
+    },
+    "Congratulations!" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Félicitations"
+          }
+        }
+      }
+    },
+    "Continue" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Continuer"
+          }
+        }
+      }
+    },
+    "Do nothing" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne fait rien"
+          }
+        }
+      }
+    },
+    "Don't panic. First, let your friends and family know about your symptoms. Tell them they can use the app to check their health." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ne paniquez pas. Tout d’abord, informez vos amis et votre famille de vos symptômes. Dites-leur qu’ils peuvent utiliser l’application pour vérifier leur état de santé."
+          }
+        }
+      }
+    },
+    "Email" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "History" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Historique"
+          }
+        }
+      }
+    },
+    "New message..." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveau message"
+          }
+        }
+      }
+    },
+    "No content" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas de contenu"
+          }
+        }
+      }
+    },
+    "No face" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pas de visage"
+          }
+        }
+      }
+    },
+    "Ok" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        }
+      }
+    },
+    "Oops" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oops"
+          }
+        }
+      }
+    },
+    "Pick a picture" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choisir une photo"
+          }
+        }
+      }
+    },
+    "Previous" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Précédent"
+          }
+        }
+      }
+    },
+    "Retry" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Réessayer"
+          }
+        }
+      }
+    },
+    "Share" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partager"
+          }
+        }
+      }
+    },
+    "Share to friends" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Partager à ses amis"
+          }
+        }
+      }
+    },
+    "Sick person face" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Visage d’une personne malade"
+          }
+        }
+      }
+    },
+    "Since December 27, 2024, a virus of unknown origin has been spreading around the world. Anyone using the BeReal app will experience swelling in their nose, eyes, or mouth if they are infected with this virus." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Depuis le 27 décembre 2024, un virus d'origine inconnue se propage dans le monde. Toute personne utilisant l'application BeReal ressentira un gonflement du nez, des yeux ou de la bouche si elle est infectée par ce virus."
+          }
+        }
+      }
+    },
+    "Tap to select a picture" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sélectionner une photo"
+          }
+        }
+      }
+    },
+    "The app is able to detect the effects of the virus before they physically appear. Use the app to check that you are not sick." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "L'application est capable de détecter les effets du virus avant qu'ils n'apparaissent physiquement. Utilisez l'application pour vérifier que vous n'êtes pas malade."
+          }
+        }
+      }
+    },
+    "To contact you if our terms change. Rest assured, we won't spam you but will only contact you when necessary." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour vous contacter si nos conditions changent. Soyez assuré que nous ne vous enverrons pas de spam, mais que nous vous contacterons uniquement lorsque cela sera nécessaire."
+          }
+        }
+      }
+    },
+    "You are ill" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous êtes malade"
+          }
+        }
+      }
+    },
+    "you are trying to cheat the system." : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous essayez de nous tromper non ?"
+          }
+        }
+      }
+    },
+    "You have to use real device" : {
+      "localizations" : {
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Vous devez utiliser un appareil physique"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

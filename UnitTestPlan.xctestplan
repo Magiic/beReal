@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "FEE82BA7-01BD-44C2-A216-6218A45BC728",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:New Apps Test.xcodeproj",
+        "identifier" : "14374FBE2B989FD700131332",
+        "name" : "New Apps TestTests"
+      }
+    }
+  ],
+  "version" : 1
+}
